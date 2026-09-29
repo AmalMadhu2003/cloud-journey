@@ -6,7 +6,7 @@ Tick a box (change `[ ]` to `[x]`) when it's done. My profile's progress bars up
 - [x] Tools installed on my laptop
 - [x] GitHub profile and repos set up
 - [x] Ubuntu (WSL) working
-- [ ] Lesson 1 done and first log entry written
+- [x] Lesson 1 done and first log entry written
 
 ## Phase 1 · IT basics from zero
 - [ ] How a computer works: CPU, memory, storage, operating system
