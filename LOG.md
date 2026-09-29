@@ -4,6 +4,12 @@ One entry per week, newest first. Start a new week with `newweek` in Ubuntu.
 
 <!-- entries -->
 
+## Week of 2026-09-28 · What the cloud is
+
+**What I did**
+- Lesson 1, Part A: servers, the cloud, and what a cloud engineer does
+- Microsoft Learn module: Describe cloud computing
+
 ## 2026-09-29 · Setup
 
 - Set up my lab: Ubuntu (WSL), VS Code, Git, Terraform, Azure CLI.
