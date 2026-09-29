@@ -1,0 +1,10 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets: never commit these
+.env
+*.pem
+*.key
+*.pfx
